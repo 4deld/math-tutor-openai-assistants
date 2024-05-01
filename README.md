@@ -1,3 +1,3 @@
 # math-tutor-openai-assistants
 
-OpenAI Assistants API Example
+OpenAI Assistants API code_interpreter Example
